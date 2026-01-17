@@ -6,4 +6,4 @@
 - Output basic metrics (return, volatility, sharpe) + simple plot later
 
 ## How to run
-python qb/run.py
+`python qb/run.py`
