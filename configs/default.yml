@@ -1,0 +1,7 @@
+﻿strategy: momentum
+universe: SPY
+start: 2020-01-01
+end: 2024-12-31
+lookback_days: 20
+rebalance: monthly
+initial_cash: 10000
